@@ -1,6 +1,6 @@
 from django import forms
 
-from .models import Topic
+from .models import Topic, Entry
 
 class TopicForm(forms.ModelForm):
     """A form to accept a new topic adding."""
