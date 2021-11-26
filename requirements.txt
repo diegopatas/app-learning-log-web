@@ -14,7 +14,6 @@ Django==3.2.9
 django-bootstrap4==21.1
 django-heroku==0.3.1
 dnspython==1.16.0
-duplicity==0.8.12.0
 entrypoints==0.3
 fasteners==0.14.1
 future==0.18.2
